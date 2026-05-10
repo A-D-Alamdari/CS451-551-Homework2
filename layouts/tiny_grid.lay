@@ -1,0 +1,7 @@
+// tiny_grid.lay -- 1 column x 3 rows
+// Smallest non-trivial layout: crater on top, start in the middle,
+// sample site at the bottom. After the y-flip: -10 at (0,2), start at
+// (0,1), +10 at (0,0).
+-10
+S
+10

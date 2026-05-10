@@ -1,0 +1,5 @@
+// small_grid.lay -- 3 cols x 2 rows
+// Same as get_small_mars_grid(): wall blocks the direct diagonal,
+// rover starts at (0,0), +1 sample at (2,1), -1 crater at (2,0).
+# _ 1
+S _ -1

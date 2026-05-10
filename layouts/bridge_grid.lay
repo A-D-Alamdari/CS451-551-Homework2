@@ -1,0 +1,8 @@
+// bridge_grid.lay -- 7 cols x 3 rows
+// Classic bridge: rover starts in the middle row one step east of a
+// safe +1 exit, with a much more valuable +10 exit six steps east.
+// The corridor is flanked above and below by -100 craters so the
+// rover cannot stray off the bridge without mission failure.
+# -100 -100 -100 -100 -100 #
+1 S _ _ _ _ 10
+# -100 -100 -100 -100 -100 #

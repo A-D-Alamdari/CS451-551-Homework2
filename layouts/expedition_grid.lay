@@ -1,0 +1,10 @@
+// expedition_grid.lay -- 7 cols x 6 rows
+// Large-scale stress test with multiple sample sites (5, 3, 2), a
+// single -5 crater, and walls partitioning the map into corridors.
+// Matches env/mars_grid.py's get_expedition_grid().
+_ _ _ _ _ _ 5
+_ # # # # _ _
+_ _ _ 2 _ _ _
+_ # _ # # # _
+_ _ _ _ _ -5 _
+S _ # _ _ _ 3

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# IDE / editor configs
+.idea/
+.vscode/
+
+# Instructor-only artifacts (kept on a separate branch / repo)
+solutions/
+generate_solutions.py
+AUDIT_REPORT.md
+LAYOUT_AUDIT.md

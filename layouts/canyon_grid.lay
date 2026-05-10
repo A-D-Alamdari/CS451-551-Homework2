@@ -1,0 +1,8 @@
+// canyon_grid.lay -- 5 cols x 4 rows
+// Discounting / noise analysis grid used by Q2. Close +1 exit on the
+// top-right, distant +10 depot on the middle-right. Start at (0,2)
+// after y-flip, matching env/mars_grid.py's get_canyon_grid().
+_ _ _ _ 1
+S _ _ _ 10
+_ _ _ _ _
+# -10 -10 -10 -10

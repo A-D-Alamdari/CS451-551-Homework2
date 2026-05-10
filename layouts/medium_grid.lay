@@ -1,0 +1,9 @@
+// medium_grid.lay -- 5 cols x 5 rows
+// Mid-sized world with walls dividing the map into corridors, a +1
+// sample at the top-right, and two -1 craters distributed to punish
+// careless exploration. Start at bottom-left corner.
+_ _ _ _ 1
+_ # # _ _
+_ _ _ _ -1
+S _ # _ _
+_ _ _ _ -1

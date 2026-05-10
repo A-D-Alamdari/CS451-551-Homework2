@@ -1,0 +1,7 @@
+// base_camp_grid.lay -- 4 cols x 3 rows
+// Analogue of Berkeley's BookGrid: wall at (1,1), +1 sample at (3,0),
+// -1 crater at (3,2). No explicit start marker, so start defaults to
+// (0,0) (bottom-left).
+_ _ _ -1
+_ # _ _
+_ _ _ 1

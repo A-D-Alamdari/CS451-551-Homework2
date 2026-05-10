@@ -1,0 +1,10 @@
+// cliff_grid.lay -- 5 cols x 4 rows
+// (The project tree annotates this as "5x5" but the four rows of
+// five cells below are what was specified.) Start at the left-middle,
+// +1 sample at the right-middle, a full crater cliff along the bottom
+// row. The rover can hug the cliff for the shortest path or take a
+// safer detour along the top.
+_ _ _ _ _
+_ _ _ _ _
+S _ _ _ 1
+-10 -10 -10 -10 -10
