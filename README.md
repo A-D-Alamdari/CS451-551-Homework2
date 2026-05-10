@@ -746,7 +746,7 @@ project structure.
 ## 🔗 Useful Links
 
 - [Homework's Github Repository](https://github.com/A-D-Alamdari/CS451-551-Homework2)
-- [Homework Page](https://a-d-alamdari.github.io/mars-rover-rl.html)
+- [Homework Page](https://a-d-alamdari.github.io/mars-rover-ai-hw2.html)
 - [Sutton & Barto — Reinforcement Learning: An Introduction (free PDF)](http://incompleteideas.net/book/the-book-2nd.html)
   - [Chapter 4: Dynamic Programming (Value Iteration)](http://incompleteideas.net/book/ebook/node43.html)
   - [Chapter 6: Temporal-Difference Learning (Q-Learning)](http://incompleteideas.net/book/ebook/node65.html)
