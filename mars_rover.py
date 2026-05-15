@@ -139,6 +139,11 @@ def run_episode(env, agent, *, discount=0.9, max_steps=200,
             break
 
         if manual:
+            if display is not None:
+                try:
+                    display.draw(env=env, agent=agent, state=state, step=steps)
+                except Exception:
+                    pass
             action = _manual_action(state, legal, display)
         else:
             action = agent.get_action(state)
